@@ -1,0 +1,6 @@
+#include <iostream.h>
+int main (){
+  cout <<endl <<"Hello World"; // Will work in C++ only
+  printf ("\nHello World ..... \n"); // Will work in C, C++
+  return 0;
+}
